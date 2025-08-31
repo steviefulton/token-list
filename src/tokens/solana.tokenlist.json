@@ -4,7 +4,7 @@
   "symbol": "PSP",
   "name": "PerpSentinel",
   "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/YOUR_USERNAME/token-list/main/assets/mainnet/HVyYkCfbGLXaHDyg1ZDAKjfCo6KoeMa8qjYQxZqwpump/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/steviefulton/token-list/main/assets/mainnet/HVyYkCfbGLXaHDyg1ZDAKjfCo6KoeMa8qjYQxZqwpump/logo.png",
   "tags": ["staking", "defi"],
   "extensions": {
     "website": "https://perpsentinel.com",
@@ -13,3 +13,4 @@
     "discord": "https://discord.gg/perpsentinel"
   }
 }
+
